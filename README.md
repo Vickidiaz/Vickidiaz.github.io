@@ -13,6 +13,7 @@ The objective of this project is to depict my interests, past experiences, proje
 This project was part of my web development course and was built using HTML, CSS, and JavaScript.
 
 # Front-page screenshot
+<img width="1125" alt="front_page_pic" src="https://github.com/Vickidiaz/Vickidiaz.github.io/assets/88179209/79547910-0480-4023-ba9a-0454ac52516a">
 
 <img width="1125" alt="front_page_pic" src="https://github.com/Vickidiaz/Vickidiaz.github.io/assets/88179209/79547910-0480-4023-ba9a-0454ac52516a">
 
