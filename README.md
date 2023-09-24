@@ -16,6 +16,8 @@ The objective of this project is to build a homepage that showcases who I am, my
 
 # Front-page screenshot
 
+<img width="1125" alt="front_page_pic" src="https://github.com/Vickidiaz/Vickidiaz.github.io/assets/88179209/79547910-0480-4023-ba9a-0454ac52516a">
+
 # How to build/use
 
 - You can load the following link in an browser.

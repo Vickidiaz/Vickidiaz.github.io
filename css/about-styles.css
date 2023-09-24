@@ -1,36 +1,34 @@
 body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    /* whole page background color */
-    background: linear-gradient(135deg, #bb8c2e, #d1baa0); 
-    
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  /* whole page background color */
+  background: linear-gradient(135deg, #bb8c2e, #d1baa0);
 }
-.about-border{
-    border: 2px solid black;
-    margin: 20px;
-    border-radius: 10px;
-    
+.about-border {
+  border: 2px solid black;
+  margin: 20px;
+  border-radius: 10px;
 }
-.main-about{
-    margin-bottom: 300px;
+.main-about {
+  margin-bottom: 300px;
 }
 
 .navbar {
-    background-color: #bb8c2e;
-    /* color: white; */
-    text-align: center;
-    padding: 10px 0;
+  background-color: #bb8c2e;
+  /* color: white; */
+  text-align: center;
+  padding: 10px 0;
 }
 
 .nav-list {
-    list-style: none;
-    padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
 .nav-item {
-    display: inline-block;
-    margin-right: 20px;
+  display: inline-block;
+  margin-right: 20px;
 }
 
 /* .nav-item:last-child {
@@ -38,37 +36,36 @@ body {
 } */
 
 .nav-item a {
-    text-decoration: none;
-    padding: 10px 20px;
-    height: 5ex;
-    color: black;
-    font-weight: bold;
-    border: 2px solid black;
-    border-radius: 10px;
-    font-family: Arial, sans-serif;
-    cursor: pointer;
+  text-decoration: none;
+  padding: 10px 20px;
+  height: 5ex;
+  color: black;
+  font-weight: bold;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  cursor: pointer;
 }
 
 .button-navbar-item {
-    background-color: #bb8c2e;
-    color: black;
-    border: 2px solid black;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    text-decoration: none; /* Remove underlines for links */
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  .button-navbar-item:hover {
-    background-color: darkgray;
-  }
+  background-color: #bb8c2e;
+  color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none; /* Remove underlines for links */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
 
+.button-navbar-item:hover {
+  background-color: darkgray;
+}
 
 .main-about ul li {
-    list-style: none;
-    margin-bottom: 50px;
+  list-style: none;
+  margin-bottom: 50px;
 }
 /* tab line right */
 /* .tabbed-item {
@@ -78,23 +75,16 @@ body {
     margin-left: 50px; 
 } */
 
-
-/* /* .main-about ul li .about-details {
-    display: inline-block; /* Display the text next to the image */
-    /* vertical-align: top; /* Align text to the top of the image */
-    /* width: calc(100% - 110px); /* Calculate the width for the text (total width minus image width and margin) */
-/* }  */
-
 .main-about ul li {
-    list-style: none;
-    margin-bottom: 50px;
+  list-style: none;
+  margin-bottom: 50px;
 }
 
 .main-about ul li img {
-    width: 90px;
-    height: 90px;
-    /* Float the image to the left */
-    float: left; 
-    /* spacing between the image and text */
-    margin-right: 20px; 
+  width: 90px;
+  height: 90px;
+  /* Float the image to the left */
+  float: left;
+  /* spacing between the image and text */
+  margin-right: 20px;
 }
