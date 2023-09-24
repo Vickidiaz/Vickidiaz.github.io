@@ -8,7 +8,7 @@ Vicki Diaz
 
 # Project Objective
 
-The objective of this project is to depict my interest, past experiences, projects, hobbies and more through a personalized homepage. It serves to showcase thse topic to anymore interested like recruter, peers, professor, and more. Anyone who is able to acces teh webpage can learn more about me and my backgorund.
+The objective of this project is to depict my interests, past experiences, projects, hobbies, and more through a personalized homepage. It serves to showcase these topics to anyone interested, such as recruiters, peers, professors, and more. Anyone who is able to access the webpage can learn more about me and my background.
 
 This project was part of my web development course and was built using HTML, CSS, and JavaScript.
 
