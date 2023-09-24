@@ -6,13 +6,11 @@ Project_1 for CS5610. Building a personal website.
 
 Vicki Diaz
 
-# Class Link
-
-https://johnguerra.co/classes/webDevelopment_fall_2022/
-
 # Project Objective
 
-The objective of this project is to build a homepage that showcases who I am, my interest, and a place to show the projects that I will be working on soon. It was a class assignment for my web development course .
+The objective of this project is to depict my interest, past experiences, projects, hobbies and more through a personalized homepage. It serves to showcase thse topic to anymore interested like recruter, peers, professor, and more. Anyone who is able to acces teh webpage can learn more about me and my backgorund.
+
+This project was part of my web development course and was built using HTML, CSS, and JavaScript.
 
 # Front-page screenshot
 
@@ -20,13 +18,21 @@ The objective of this project is to build a homepage that showcases who I am, my
 
 # How to build/use
 
-- You can load the following link in an browser.
-  https://vickidiaz.github.io/
+1. Clone the following repository: https://github.com/Vickidiaz/Vickidiaz.github.io
+2. In your IDE, install the required Node.js modules using the command npm install.
+3. In your terminal, execute the command http-server.
+4. Finally, open the provided HTTP link in your local web browser.
 
-- You can clone or fork the repository the following link and run it in a browser after opening it on a local server.
-  https://github.com/Vickidiaz/Vickidiaz.github.io
+# Technologies Used
+
+- HTML
+- CSS
+- JavaScript
 
 # Links
 
-- Video Presentation: https://www.youtube.com/watch?v=QvkCEQAH9gk
+- Website Home page: https://vickidiaz.github.io/
+- Video Presentation/ Walk Through: https://www.youtube.com/watch?v=QvkCEQAH9gk
 - Slides: https://docs.google.com/presentation/d/1X0z2tNVx294qKaQef8J4L6p0fMLuZX9bJNemR-5d8VQ/edit?usp=sharing
+- Website Design Document: https://docs.google.com/document/d/1MeplHiI4bJj79Y_yoiNglBQ1TdJcG5AEMKh6wMWuh84/edit?usp=sharing
+- Class Link: https://johnguerra.co/classes/webDevelopment_fall_2022/
